@@ -41,3 +41,4 @@ uvicorn
 uvloop==0.21.0
 xattr
 yt-dlp[default,curl-cffi]
+git+https://github.com/Hrishi2861/mega-sdk-py-4.8.0.git
