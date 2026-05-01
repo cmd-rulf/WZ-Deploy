@@ -6,7 +6,7 @@ anytree
 apscheduler
 aioaria2
 aioqbt
-imdbinfo
+cinemagoer
 cloudscraper
 dnspython
 fastapi
@@ -17,7 +17,7 @@ google-auth-oauthlib
 gunicorn
 httpx
 langcodes
-language-data
+language_data
 jinja2
 lxml
 motor
